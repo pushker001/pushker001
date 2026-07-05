@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🔭 I'm currently working on Full Stack.<br>👯 I'm looking to collaborate with software engineers.<br>🌱 I'm currently learning the MERN stack.<br>💬 Ask me about technology
+<br>🔭 DevOps/AI engineer building Corro — open-source evidence layer for spec-driven development. Building in public.
 
 
 ## 🌐 Socials:
